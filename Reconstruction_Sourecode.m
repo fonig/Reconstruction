@@ -1,5 +1,5 @@
 %version 2022/04/20, coded by Weiwei Cai, Hoon Hahn Yoon, and Fedor Nigmatulin
-
+line-ending-selector:convert-to-LF
 clear;clc;close all;
 
 %**************parameter settings*************
