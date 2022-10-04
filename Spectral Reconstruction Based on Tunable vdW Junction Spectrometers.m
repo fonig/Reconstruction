@@ -1,4 +1,4 @@
-%version 2022/10/04, coded by Weiwei, Hoon, and Fedor
+%version 2022/10/04, coded by Weiwei Cai, Hoon Hahn Yoon, and Fedor Nigmatulin
 clear;clc;close all;
 
 %**************Parameter settings*************
